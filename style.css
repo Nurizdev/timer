@@ -1,0 +1,28 @@
+.timer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+h1{
+    font-size: 100px;
+    
+}
+span{
+    font-size: 80px;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
+.btn button{
+padding: 8px 25px;
+border-radius: 10px;
+border: none;
+color: white;
+background: orange;
+}
+
